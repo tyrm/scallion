@@ -181,6 +181,7 @@ NVIDIA Quadro K2000M          | 90 MH/s
 NVIDIA GTS 250                | 128 MH/s
 NVIDIA GTS 450                | 144 MH/s
 NVIDIA GTX 670                | 480 MH/s
+NVIDIA GT 1030                | 845 MH/s
 NVIDIA GTX 970                | 2350 MH/s
 NVIDIA GTX 980                | 3260 MH/s
 NVIDIA GTX 1070               | 4140 MH/s
